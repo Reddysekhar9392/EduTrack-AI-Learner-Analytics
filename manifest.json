@@ -1,0 +1,32 @@
+{
+  "seed": 20261022,
+  "counts": {
+    "learner": 200,
+    "course": 10,
+    "cohort": 10,
+    "enrollment": 1000,
+    "content_item": 40,
+    "assessment": 10,
+    "completion_rule": 10,
+    "activity_event": 20000,
+    "attempt": 1143,
+    "course_outcome": 1000,
+    "ground_truth": 50
+  },
+  "sha256": {
+    "activity_event.csv": "471fab8fe3fedafbc69d15dd19ca7db69e4fd1addd031ad203ca764cb17ac0b6",
+    "assessment.csv": "8fd17a92f836382b1a6962fec33c7f5cfbae444d638e8d432d6edb6bedb63823",
+    "attempt.csv": "b1cdcc2a53165b6225d91f5b5a066a96e9f18283c7bd63a3f25db1324bfe8d06",
+    "cohort.csv": "c681e59a9a992dcfebded8541689763c3220e828fe77f6cff4f374e930fef7b7",
+    "completion_rule.csv": "9272ff8a4448f9378b6392ba07e9b4d2e2ba88b3f61a700c4dd8e4e63867d8da",
+    "content_item.csv": "c61d8442fa1a89b398181f0e55e2c11b626a43884e7284a557f753229aaf66b3",
+    "course.csv": "40652d9672181185255c125802f71aae2fa75b8b50bb3703e8d22119ad04faa8",
+    "course_outcome.csv": "eddf905fc204de33f2c1f916fb8883bf1021cb17c52a3e89c2306a1f5d01bb52",
+    "enrollment.csv": "a43bf6e70819e85b1e4fd6456c3a3c6626ce5e4fd412f0e4bb1c78b9e7402e78",
+    "ground_truth.csv": "d05209c7b5712cfd4453869679a665993e191b0f2caef77a61094b7898fe09eb",
+    "learner.csv": "8d84bde44036dbff2c376d0f91b2fb63e1a31888f149a382d27e22741e6b37ca"
+  },
+  "foreign_key_errors": 0,
+  "duplicate_event_keys": 20,
+  "synthetic_only": true
+}

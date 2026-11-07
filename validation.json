@@ -1,0 +1,19 @@
+{
+  "foreign_keys_valid": true,
+  "all_primary_keys_unique": true,
+  "row_counts": {
+    "learner": 200,
+    "course": 10,
+    "cohort": 10,
+    "enrollment": 1000,
+    "content_item": 40,
+    "assessment": 10,
+    "completion_rule": 10,
+    "activity_event": 20000,
+    "attempt": 1143,
+    "course_outcome": 1000,
+    "ground_truth": 50
+  },
+  "duplicate_keys_detected": 20,
+  "completion_rule": "3 distinct completed content items AND at least one passing assessment"
+}
